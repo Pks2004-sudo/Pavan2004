@@ -1,8 +1,9 @@
 # 👋 Hey, I'm K S PAVAN
 
 <p align="center">
-<img src="profile.jpg" width="180" style="border-radius:50%;" />
-
+  <img src="https://github.com/user-attachments/assets/de95f33b-6602-4cb8-8a0b-76024cbeee9f"
+       width="180"
+       style="border-radius:50%;" />
 </p>
 
 🎓 **CSE (AI & ML)** student at **Vidyavardhaka College of Engineering**  
@@ -49,8 +50,10 @@
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?logo=epicgames&logoColor=white)
 
 ---
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan2004&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan2004&layout=compact&theme=github_dark)
+
