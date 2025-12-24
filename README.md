@@ -55,4 +55,4 @@
 
 ## 📊 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pavan2004)
+![GitHub Streak]([https://streak-stats.demolab.com?user=Pavan2004](https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md))
