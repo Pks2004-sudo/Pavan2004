@@ -1,10 +1,10 @@
 # 👋 Hey, I'm K S PAVAN
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/de95f33b-6602-4cb8-8a0b-76024cbeee9f"
-       width="180"
-       style="border-radius:50%;" />
+       width="220" />
 </p>
+
 
 🎓 **CSE (AI & ML)** student at **Vidyavardhaka College of Engineering**  
 📊 **CGPA: 7.58**  
