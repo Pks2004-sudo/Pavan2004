@@ -51,7 +51,6 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan2004&show_icons=true&theme=dark)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan2004&layout=compact&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavan2004&show_icons=true&theme=github_dark)
